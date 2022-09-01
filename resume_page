@@ -1,0 +1,206 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="{% static 'Tyler_Safe_Profile/main.css' %}">
+    <script type="text/javascript" href="{% static 'Tyler_Safe_Profile/background.js' %}"></script>
+
+
+    <div class="area-resume" >
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+
+        <div class="center-resume">
+            <div>&nbsp;</div>
+            <h2>Resume</h2>
+            <a href="{% static 'Tyler_Safe_Profile/assets/Resume_Tyler_Safe.docx' %}" download="Resume_Tyler_Safe.docx">Download Copy</a>
+            <hr width="100%" size="20" align="center">
+            <div>&nbsp;</div>
+            <div id="wrapper">
+                <div id="left-resume">
+                    <h1> Tyler Safe </h1>
+                </div>
+                <div id="right-resume">
+                    <p> <b>Phone:</b> 0466 556 927 <br>
+                        <b>Email:</b> tjsafe@live.com <br>
+                        <b>GitHub:</b> <a target="_blank" rel="noopener noreferrer" href="https://github.com/TylerSafe">https://github.com/TylerSafe</a> <br>
+                        <b>LinkedIn:</b> <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/tyler-safe-0a98b7236/">https://www.linkedin.com/in/tyler-safe-0a98b7236/</a> <br>
+                        <b>Hackerrank:</b> <a target="_blank" rel="noopener noreferrer" href="https://www.hackerrank.com/legendsafehouse">https://www.hackerrank.com/legendsafehouse</a> <br>
+                    </p>
+                </div>
+            </div>
+
+            <div>&nbsp;</div>
+
+            <h4>Summary</h4>
+            <p> 
+                I am seeking the opportunity to utilise my coding and software development skills after recently completing my Bachelor of Computer Science, 
+                majoring in Software Engineering where I achieved a High Distinction average. I have relied on my time management, attention to detail, 
+                efficiency, and communication skills to be successful throughout my time at university across two bachelor’s degrees and working life. I 
+                have also taken on many projects outside of university, which can be found at my GitHub link above; and I am constantly working to improve 
+                my Python problem solving capabilities via Hackerrank. Although I have focused on back-end development and Python as my preferred language I 
+                am open to all opportunities as my degree has provided me with surface level knowledge of many areas/languages including C++, C#, Java, LUA, 
+                QL, PHP and Matlab. 
+            </p>
+
+            <div>&nbsp;</div>
+
+            <h4>Projects</h4>
+            <p>
+                My GitHub contains many of my projects, I would recommend checking out the Wordle Solver if you have the game already or the Snake Game as some 
+                easy to use programs I have written. There is also a video located in the Trophy and Engraving Business Program repository that details a 
+                program I have written for a business that is currently in use. The code can be provided on request.
+            </p>
+
+            <div>&nbsp;</div>
+
+            <h4>Education</h4>
+            <p>Bachelor of Computer Science, majoring in Software Engineering, WAM 88.71<br>
+                Edith Cowan University, 2018 - 2022<br>
+                (Academic transcript attached, page 3)<br>
+                <br>
+                Bachelor of Aviation<br>
+                Edith Cowan University, 2010 - 2013<br>
+                <br>
+                High School Certificate<br>
+                St Stephens High School, WA, 2009<br>
+            </p>
+
+            <div>&nbsp;</div>
+
+            <h4>Employment History</h4>
+            <p>
+                <b>Toll (Woolworths Online)</b> <br>
+                Delivery Driver<br>
+                2017 – 2018<br>
+                A casual position with Toll, delivering groceries for Woolworths. In this position I was required to have good time management skills, work quickly, 
+                abide by strict safety procedures, handle food, lift heavy crates, communicate with customers and work independently. <br>
+                <br>
+                <b>Vibe Barstools</b><br>
+                Owner<br>
+                2016 – 2017<br>
+                Owned and ran a small business out of a warehouse selling furniture, mostly barstools, for a little over a year. I managed everything from importing 
+                containers to negotiating warehouse leases and building a website. Running this business encompassed a huge array of areas and allowed me to learn many 
+                new skills. It also allowed me to see just how hard it can be to run a business and contributed to me becoming a better worker.<br>
+                <br>
+                <b>Fusions (Furniture Store)</b><br>
+                Warehouse Manager/Delivery Driver<br>
+                2014 – 2016<br>
+                A part time position working for a furniture company in Osborne Park. I along with a friend managed their 3 warehouses including unloading containers, 
+                stock management, delivery driving (truck), packing, furniture repairs and other odd jobs. I was required to plan the daily deliveries and give approximate 
+                arrival times to customers, complete stock transfers and manage my offsider on a regular day. <br>
+                <br>
+                <b>Coles</b><br>
+                Shop Assistant<br>
+                2009 – 2014<br>
+                This casual position covered a whole range of jobs in the store including stocking shelves, working checkouts and customer service. Throughout my time I 
+                experienced a lot of different team dynamics and positions within those teams, being both the junior and most senior member at different stages. <br>
+            </p>
+
+            <div>&nbsp;</div>
+
+            <h4>Recognition</h4>
+            <p>
+                Acknowledged for being in the top 100 students at Edith Cowan University across all disciplines, 2020 (see below)<br>
+                <br>
+                Acknowledgement of contribution to Engineers Without Borders challenge, 2012<br>
+            </p>
+
+            <div>&nbsp;</div>
+
+            <h4>Referees</h4>
+            <p>
+                Greg Bataard • Head of Computer Science at ECU<br>
+                (08) 6304 6283 (rarely in office)<br>
+                g.bataard@our.ecu.edu.au<br>
+                <br>
+                Mikala Jones • Woolworths Department Manager<br>
+                0426507619<br>
+            </p>
+
+            <div>&nbsp;</div>
+
+            <h4>Certificate of Recognition</h4>
+            <br>
+            <div class="center-image">
+                <img src="{% static 'Tyler_Safe_Profile/assets/certificate.png' %}" alt="Certificate" height="709" width="502">
+            </div>
+            <br>
+        </div>
+
+        <ul class="circles-resume">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>           
+        </ul>
+        
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+
+      <div class="footer">
+        <span class="align-footer">
+        <span><a href="{% url 'profile-home' %}">Home</a></span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        <span><a href="{% url 'resume-complete' %}">Resume</a></span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        <span><a href="{% url 'academic-transcript' %}">Academic Transcript</a></span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        <span><a href="{% url 'contact-info' %}">Contact</a></span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        </span>     
+      </div>
+
+    </div >
+        
+    {% if title %}
+        <title>Tyler Safe - {{ title }}</title>
+    {% else %}
+        <title>Tyler Safe</title>
+    {% endif %}
+</head>
+<body>
+    <header class="site-header">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+          <div class="container">
+            <a class="navbar-brand mr-4" href="{% url 'profile-home' %}">My Profile</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarToggle">
+              <div class="navbar-nav mr-auto">
+                <a class="nav-item nav-link" href="{% url 'profile-home' %}">Home</a>
+                <a class="nav-item nav-link" href="{% url 'resume-complete' %}">Resume</a>
+                <a class="nav-item nav-link" href="{% url 'academic-transcript' %}">Academic Transcript</a>
+                <a class="nav-item nav-link" href="{% url 'contact-info' %}">Contact</a>
+              </div>
+              <!-- Navbar Right Side -->
+              <div class="navbar-nav">
+                
+              </div>
+            </div>
+          </div>
+        </nav>
+    </header>
+
+    
+    
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
